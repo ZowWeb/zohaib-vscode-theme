@@ -1,0 +1,21 @@
+{
+    "name": "zohaib-vscode-theme",
+    "displayName": "Zohaib VSCode Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zohaib VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zohaib VSCode Theme-color-theme.json"
+            }
+        ]
+    }
+}
